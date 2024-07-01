@@ -1,0 +1,18 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Api Jose Enrique Rodriguez",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Jose Enrique Rodriguez Fuentes",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
